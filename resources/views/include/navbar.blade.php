@@ -24,10 +24,6 @@
         <div class="col-md-10 col-md-offset-1">
           <div class="banner-text text-center"> <div class="logo">Decorati</div>
             <h1>Interior Design</h1>
-            <!--Countdown -->
-            <!--div id="countdown"></div>
-            <!--Countdown --> 
-            <!--a href="#subscribes" class="btn">Notify me</a-->
             </p>
           </div>
         </div>
