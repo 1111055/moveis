@@ -36,7 +36,7 @@
     <div class="row">
            <div class="col-xs-4">
             <div class="card" style="width: 40rem;">
-              <img class="card-img-top" src="{{asset('images/produtos/hall/amr7.jpg')}}" alt="Card image cap">
+              <img class="card-img-top" src="{{asset('images/produtos//hall/7.jpg')}}" alt="Card image cap">
               <div class="card-block">
                 <h4 class="card-title">Movel XPTO</h4>
               </div>
@@ -44,7 +44,7 @@
           </div>
           <div class="col-xs-4 col-md-offset-1">
                 <div class="card" style="width: 40rem;">
-                <img class="card-img-top" src="{{asset('images/produtos/hall/amr7.jpg')}}" alt="Card image cap">
+                <img class="card-img-top" src="{{asset('images/produtos//hall/7.jpg')}}" alt="Card image cap">
                 <div class="card-block">
                   <h4 class="card-title">Movel XPTO2</h4>
                 </div>
